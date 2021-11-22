@@ -1,5 +1,5 @@
 // Kotlin Higher Lower Game
-// Made by Mark Vagil\
+// Made by Mark Vagil
 
 import java.util.Scanner
 // java scanner import
